@@ -1,0 +1,2 @@
+#!/bin/bash
+javaws /usr/share/freeroute/freeroute.jnlp
